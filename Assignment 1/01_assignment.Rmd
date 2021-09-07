@@ -35,6 +35,8 @@ Read the [Quick Intro](https://advanced-ds-in-r.netlify.app/posts/2021-01-28-git
 
 -   Below, post a link to your GitHub repository - the main page which should show the README is fine.
 
+https://github.com/bennywags15/Assignment_01
+
 ## Creating a website
 
 You'll be using RStudio to create a personal website to showcase your work from this class! Start by watching the [Sharing on Short Notice](https://youtu.be/QcE4RBH2auQ) webinar by Alison Hill and Desirée De Leon of RStudio. This should help you choose the type of website you'd like to create.
