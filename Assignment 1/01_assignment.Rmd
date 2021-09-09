@@ -55,6 +55,8 @@ Once you've chosen that, you might want to look through some of the other *Build
 
 -   Include a link to your website below.
 
+https://benwagner.netlify.app/
+
 -   Listen to at least the first 20 minutes of "Building a Career in Data Science, Chapter 4: Building a Portfolio". Go to the main [podcast website](https://podcast.bestbook.cool/) and navigate to a podcast provider that works for you to find that specific episode. Write 2-3 sentences reflecting on what they discussed and why creating a website might be helpful for you.
 
 ## Project ideas
@@ -78,3 +80,6 @@ Listen to Dr. Rachel Thomas's [Bias and Fairness lecture](https://ethics.fast.ai
 -   Why is it important that we pay attention to bias and fairness when studying data science?
 
 -   Is there a type of bias Dr. Thomas discussed that was new to you? Can you think about places you have seen these types of biases?
+
+
+It was interesting hearing the different types of biases involved so much in machine learning and AI projects. It is very clear from the number of examples Dr. Thomas used in her presentation that these biases affect a lot of projects, even if the researcher doesn't realize it. The correlation between projects dealing with gender and race and some form of bias must be very high, and I'm not sure if it's possible to completely get rid of that bias, but Dr. Thomas gives good advice when thinking about researching a topic involving gender and race. It's important to study these biases because if you don't understand the bias involved with a project, you could just take the results for what they are, which could intuitively be wrong. For example, Dr. Thomas used the example of an algorithm modeling the number of police that should be sent to an area for patrol. This played into the algorithmic bias because if they sent more police to an area, there would be greater arrests, leading also to more police being sent to the area. One thing that surprised me is how intertwined all of the types of bias are with the others. It seems like the presence of one bias can cause another form. 
